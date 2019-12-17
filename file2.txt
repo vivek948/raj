@@ -1,1 +1,2 @@
 this is file in the local master
+3rd line is added in the local b2
